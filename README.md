@@ -107,5 +107,5 @@ ________________________________________________________________________________
    @dbenham            - Set buffer height independently of window height
                          stackoverflow.com/a/13351373
 
-   @Khuzaima_Awan (Me)	   - Add and fix some missing features.
+   @KhuzaimaAwan47 (Me)	   - Add and fix some missing features.
 _________________________________
