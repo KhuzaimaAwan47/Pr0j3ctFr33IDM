@@ -4,6 +4,8 @@ _________________________________
 ###   Activation:
 _________________________________
 
+ - Download the zip file and after extracting run the "IAS_0.8_ByKhuzaimaAwan" file as administrator privileges.
+ 
  - This script applies the registry lock method to activate the Internet Download Manager (IDM).
 
  - This method requires Internet at the time of activation.
